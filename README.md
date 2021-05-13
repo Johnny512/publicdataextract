@@ -11,9 +11,8 @@ strategic customers HEB, We don't have all customers mapped. Strategic vs non-st
 
 Steps to create Python Environment:
 
-1. Clone the repository: https://gitlab.one.twcbiz.com/jcastillo02/hifld_import_pub_data_extract.git
-2. Create virtual Environment with command: python -m venv env
-3. Download all packages with command: pip install requirements.txt
+1. Create virtual Environment with command: python -m venv env
+2. Download all packages with command: pip install requirements.txt
 
 ## Resources
 * [HIFLD](https://services1.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/Hospitals_1/FeatureServer/0/query?outFields=*&where=1%3D1)
